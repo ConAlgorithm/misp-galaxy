@@ -11194,7 +11194,13 @@
         "price": "0.05 (300 $)",
         "refs": [
           "http://blog.talosintelligence.com/2017/10/bad-rabbit.html",
+          "https://www.welivesecurity.com/2017/10/24/bad-rabbit-not-petya-back/",
+          "https://securelist.com/bad-rabbit-ransomware/82851/",
+          "http://www.intezer.com/notpetya-returns-bad-rabbit/",
           "https://id-ransomware.blogspot.com/2017/10/badrabbit-ransomware.html"
+        ],
+        "ransomnotes": [
+          "https://www.welivesecurity.com/wp-content/uploads/2017/10/mbr_cut.png"
         ],
         "synonyms": [
           "BadRabbit",
