@@ -13638,6 +13638,19 @@
         ]
       },
       "uuid": "a1a730e2-f1a4-4d7b-9930-80529cd97f3c"
+    },
+	{
+      "value": "KingOuroboros",
+      "description": "This crypto-extortioner encrypts user data using AES, and then requires a $ 30- $ 50- $ 80 buy-  back to BTC to return the files. The name is original. Written on AutoIt.",
+      "meta": {
+        "refs": [
+          "https://id-ransomware.blogspot.com/2018/06/kingouroboros-ransomware.html"
+        ],
+        "ransomnotes": [
+          "Your files has been safely encrypted\n---\nEncrypted files: 276\n**********\n---\n[Buy Bitcoins] [Decrypt Files] (Decryptionkey)\n---\nThe only way you can recover your files is to buy a decryption key\nThe payment method is: Bitcoin. The price is: $50 = Bitcoins\nAfter buying the amount of bitcoins send an email\nto king.ouroboros@protonmail.com Your ID: *****\nWe will provide you with payment address and your decryption key.\nYou have 72 Hours to complete the payment otherwise your key will be deleted."
+        ]
+      },
+      "uuid": "303a07bf-c990-4fbe-ac7d-57b8c3cb29b6"
     }
   ],
   "version": 76
