@@ -3426,6 +3426,19 @@
       "description": "In the wild since February 2015. The malware comes equipped with a variety of features and can be purchased for $50 directly from the author. It has been deployed in attacks against organizations across many industries and is predominantly delivered via phishing emails.",
       "value": "KeyBase",
       "uuid": "b3cfd21f-b637-42ff-b118-2803630b718a"
+    },
+    {
+      "meta": {
+        "refs": [
+          "https://www.proofpoint.com/us/threat-insight/post/parasite-http-rat-cooks-stew-stealthy-tricks"
+        ],
+		"synonyms": [
+          "Parasite HTTP RAT"
+        ]
+      },
+      "description": "Remote access Trojan (RAT) available for sale on underground markets. The RAT, dubbed Parasite HTTP, is especially notable for the extensive array of techniques it incorporates for sandbox detection, anti-debugging, anti-emulation, and other protections. The malware is also modular in nature, allowing actors to add new capabilities as they become available or download additional modules post infection.",
+      "value": "Parasite HTTP",
+      "uuid": "d1210fcd-c0c2-4823-8366-fd4ace73c488"
     }
   ],
   "version": 32

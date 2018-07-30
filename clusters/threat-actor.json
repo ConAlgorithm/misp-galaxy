@@ -7866,6 +7866,29 @@
         ]
       },
       "uuid": "790cc0e7-4132-4e41-9b6c-11ff757400c0"
+    },
+    {
+      "value": "luoxk",
+      "description": "Luoxk is a malware campaign targeting web servers throughout Asia, Europe and North America.",
+      "meta": {
+        "refs": [
+          "https://www.systemtek.co.uk/2018/07/luoxk-malware-exploiting-cve-2018-2893/"
+        ],
+        "since": "2017",
+      },
+      "uuid": "69e11692-691e-4bfb-9557-4e2a271684ed"
+    },
+    {
+      "meta": {
+        "country": "IR",
+        "synonyms": [],
+        "refs": [
+          "https://www.symantec.com/blogs/threat-intelligence/leafminer-espionage-middle-east"
+        ]
+      },
+      "description": "A threat actor named Leafminer that is targeting a broad list of government organizations and business verticals in various regions in the Middle East since at least early 2017. The group tends to adapt publicly available techniques and tools for their attacks and experiments with published proof-of-concept exploits. Leafminer attempts to infiltrate target networks through various means of intrusion: watering hole websites, vulnerability scans of network services on the internet, and brute-force/dictionary login attempts. The actor’s post-compromise toolkit suggests that the group is looking for email data, files, and database servers on compromised target systems.",
+      "value": "Leafminer",
+      "uuid": "e6f92abb-ba81-475c-8846-70da0c4e1f1c"
     }
   ],
   "version": 147
