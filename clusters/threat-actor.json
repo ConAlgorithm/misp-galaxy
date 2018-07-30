@@ -7851,6 +7851,21 @@
       },
       "uuid": "feb0cfef-0472-4108-83d7-1a322d8ab86b",
       "value": "APT-C-34"
+    },
+    {
+      "value": "Golden RAT",
+      "description": "Since November 2014, the Golden Rat Organization (APT-C-27) has launched an organized, planned and targeted long-term uninterrupted attack on the Syrian region. The attack platform has gradually expanded from the beginning of the Windows platform to the Android platform.",
+      "meta": {
+        "refs": [
+          "https://ti.360.net/blog/articles/analysis-of-apt-c-27/",
+          "http://csecybsec.com/download/zlab/20180723_CSE_APT27_Syria_v1.pdf"
+        ],
+        "since": "2014",
+        "synonyms": [
+          "APT-C-27"
+        ]
+      },
+      "uuid": "790cc0e7-4132-4e41-9b6c-11ff757400c0"
     }
   ],
   "version": 147
