@@ -7889,6 +7889,20 @@
       "description": "A threat actor named Leafminer that is targeting a broad list of government organizations and business verticals in various regions in the Middle East since at least early 2017. The group tends to adapt publicly available techniques and tools for their attacks and experiments with published proof-of-concept exploits. Leafminer attempts to infiltrate target networks through various means of intrusion: watering hole websites, vulnerability scans of network services on the internet, and brute-force/dictionary login attempts. The actor’s post-compromise toolkit suggests that the group is looking for email data, files, and database servers on compromised target systems.",
       "value": "Leafminer",
       "uuid": "e6f92abb-ba81-475c-8846-70da0c4e1f1c"
+    },
+    {
+      "value": "Donot",
+      "description": "A sophisticated malware framework named EHDevel, which was aimed at different institutions in India and Pakistan to gather intelligence over the past few years. The framework is thought to be have been used by nation-state hackers, who started with small, vulnerable individuals in order to reach larger goals and gather intelligence.",
+      "meta": {
+        "refs": [
+          "https://labs.bitdefender.com/2017/09/ehdevel-the-story-of-a-continuously-improving-advanced-threat-creation-toolkit/",
+          "https://asert.arbornetworks.com/donot-team-leverages-new-modular-malware-framework-south-asia/"
+        ],
+        "synonyms": [
+          "EHDevel"
+        ]
+      },
+      "uuid": "9430f569-5bc9-4d4f-a4e5-c64a9d1a9536"
     }
   ],
   "version": 147

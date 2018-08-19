@@ -7877,6 +7877,36 @@
       "description": "A Tool For Mass Password Auditing of Windows Systems",
       "value": "fgdump",
       "uuid": "1f373de2-c520-453b-b32a-2c6d4ad7243b"
+    },
+    {
+      "meta": {
+        "refs": [
+          "https://blog.minerva-labs.com/waterminer-a-new-evasive-crypto-miner"
+        ]
+      },
+      "description": "Evasive malware Monero miner",
+      "value": "WaterMiner",
+      "uuid": "5bec0e5a-bce9-4072-a766-915e32339230"
+    },
+    {
+      "meta": {
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2018/07/microsoft-office-vulnerabilities-used-to-distribute-felixroot-backdoor.html"
+        ]
+      },
+      "description": "In September 2017, FireEye identified the FELIXROOT backdoor as a payload in a campaign targeting Ukrainians ",
+      "value": "FELIXROOT",
+      "uuid": "31c36ba1-89b3-40cc-a1ee-fd49d2b8f101"
+    },
+    {
+      "meta": {
+        "refs": [
+          "https://research.checkpoint.com/vbetaly/"
+        ]
+      },
+      "description": "Check Point researchers have found another wave of the Ursnif malspam campaign targeting Italy. Only a few details are known so far but what we have found is that the file delivered is a VBE file (encoded VBS) named “SCANSIONE.vbe” and is delivered via ZIP attachments in emails with the subject suggesting different documents in Italian.",
+      "value": "VBEtaly",
+      "uuid": "10c0d60b-c9c1-474c-8594-11b5d82c6498"
     }
   ],
   "version": 129

@@ -7935,6 +7935,9 @@
       "description": "Ransomware Based on HiddenTear, but uses TripleDES, decrypter is PoC",
       "meta": {
         "encryption": "TripleDES",
+        "synonyms": [
+          "JobCrypter"
+        ],
         "extensions": [
           ".locked",
           ".css"
@@ -13651,6 +13654,19 @@
         ]
       },
       "uuid": "303a07bf-c990-4fbe-ac7d-57b8c3cb29b6"
+    },
+    {
+      "value": "MAFIA Ransomware",
+      "description": "The ransomware appears to target users in Korea, and may have been developed with at least knowledge of the Korean language.",
+      "meta": {
+        "synonyms": [
+          "Mafia"
+        ],
+        "refs": [
+          "https://bartblaze.blogspot.com/2018/08/mafia-ransomware-targeting-users-in.html"
+        ]
+      },
+      "uuid": "9ea6333f-1437-4a57-8acc-d73019378ef2"
     }
   ],
   "version": 76
