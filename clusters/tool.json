@@ -7907,6 +7907,46 @@
       "description": "Check Point researchers have found another wave of the Ursnif malspam campaign targeting Italy. Only a few details are known so far but what we have found is that the file delivered is a VBE file (encoded VBS) named “SCANSIONE.vbe” and is delivered via ZIP attachments in emails with the subject suggesting different documents in Italian.",
       "value": "VBEtaly",
       "uuid": "10c0d60b-c9c1-474c-8594-11b5d82c6498"
+    },
+    {
+      "meta": {
+        "refs": [
+          "https://www.proofpoint.com/us/threat-insight/post/new-modular-downloaders-fingerprint-systems-part-2-advisorsbot"
+        ]
+      },
+      "description": "Beginning in May 2018, Proofpoint researchers observed a previously undocumented downloader dubbed AdvisorsBot appearing in malicious email campaigns. The campaigns appear to primarily target hotels, restaurants, and telecommunications, and are distributed by an actor we track as TA555. To date, we have observed AdvisorsBot used as a first-stage payload, loading a fingerprinting module that, as with Marap, is presumably used to identify targets of interest to further infect with additional modules or payloads. AdvisorsBot is under active development and we have also observed another version of the malware completely rewritten in PowerShell and .NET.",
+      "value": "AdvisorsBot",
+      "uuid": "931d60e8-2ed8-440b-ae15-fa9062943cae"
+    },
+    {
+      "meta": {
+        "refs": [
+          "https://boozallenmts.com/resources/news/rtpos-new-point-sale-malware-family-uncovered"
+        ]
+      },
+      "description": "RtPOS is unique in comparison to other fully featured POS malware like Project Hook and TreasureHunter, in that it has no native exfiltration capability. While other POS malware families are perfectly capable of sending captured Track1 and Track2 data to a C2 server, RtPOS merely saves the data locally. As this activity is similar to some POS utilities, this is likely intended to reduce the network activity footprint of RtPOS and ensure the malware remains undetected for longer, thus earning the controllers a healthier profit. The RtPOS malware is also simplistic in features, largely automated in operation, and lacks many of the features that more mature POS malware families do. ",
+      "value": "RtPOS",
+      "uuid": "4958c6a7-b8dd-492c-b4e5-2659cfbc7c60"
+    },
+    {
+      "meta": {
+        "refs": [
+          "https://www.fortinet.com/blog/threat-research/russian-army-exhibition-decoy-leads-to-new-biskvit-malware.html"
+        ]
+      },
+      "description": "A few days ago, the FortiGuard Labs team found a malicious PPSX file exploiting CVE-2017-0199 that had been crafted for Russian speakers. The filename “Выставка” when translated means “Exhibition”. On further examination, the PPSX file seems to have been targeted at an exhibition being held annually in Russia called Army 2018 International Military and Technical Forum. This is one of the largest exhibitions of military weapons and special equipment, not only in Russia, but also one of the outstanding events among similar exhibitions in the world. The discovery of this malicious document is very timely since the event is scheduled to be held August 21-26, 2018.",
+      "value": "BISKVIT",
+      "uuid": "fc54a88f-4b08-4763-ad29-4a9c9d94417e"
+    },
+    {
+      "meta": {
+        "refs": [
+          "https://thisissecurity.stormshield.com/2018/08/28/acridrain-stealer/"
+        ]
+      },
+      "description": "AcridRain is a new password stealer written in C/C++ that showed up on forums around the 11th of July 2018. This malware can steal credentials, cookies, credit cards from multiple browsers. It can also dump Telegram and Steam sessions, robs Filezilla recent connections, and more. You can see a full description in the picture below.",
+      "value": "AcridRain ",
+      "uuid": "5acfa061-6be3-431c-8895-1f7760123f4a"
     }
   ],
   "version": 129
